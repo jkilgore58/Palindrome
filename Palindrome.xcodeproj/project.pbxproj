@@ -58,11 +58,11 @@
 		4CBC3EC51C46B17400DA2422 /* Palindrome */ = {
 			isa = PBXGroup;
 			children = (
+				4CBC3ECF1C46B17400DA2422 /* Main.storyboard */,
 				4CBC3EC91C46B17400DA2422 /* AppDelegate.h */,
 				4CBC3ECA1C46B17400DA2422 /* AppDelegate.m */,
 				4CBC3ECC1C46B17400DA2422 /* ViewController.h */,
 				4CBC3ECD1C46B17400DA2422 /* ViewController.m */,
-				4CBC3ECF1C46B17400DA2422 /* Main.storyboard */,
 				4CBC3ED21C46B17400DA2422 /* Assets.xcassets */,
 				4CBC3ED41C46B17400DA2422 /* LaunchScreen.storyboard */,
 				4CBC3ED71C46B17400DA2422 /* Info.plist */,
